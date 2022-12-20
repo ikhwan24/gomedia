@@ -1,7 +1,7 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Server Ready - v21j16",
+"JSON_POPUP_WAIT" : "Server Ready - v1",
 
 "TOAST_NOTIF" : false,
 
@@ -27,8 +27,8 @@
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-7819830095561957/1648569146",
+"ADMOB_INTER" : "ca-app-pub-7819830095561957/5783255278",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
